@@ -1,3 +1,10 @@
 .hidden {
-  display: none;
+	display: none;
+}
+.main-wrapper{
+	top:70px;
+	position: relative;
+}
+.btn-right{
+	float: right;
 }
