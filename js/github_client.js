@@ -58,6 +58,5 @@ var bindCreateButton = function() {
 
 $(document).ready(function(){
 	bindCreateButton();
-		$( "body" ).load( "https://github.com/ShereenMessi a.text-bold")
 
 });
